@@ -6,8 +6,8 @@ Created on Fri Nov  1 16:22:26 2019
 @author: user
 """
 
-farhan
-import os
+jayaaaaa
+
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
