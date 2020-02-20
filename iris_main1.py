@@ -1,5 +1,5 @@
 
-# -*- coding: utf-8 -*-
+
 """
 Created on Fri Nov  1 16:22:26 2019
 
