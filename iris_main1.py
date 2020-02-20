@@ -33,6 +33,8 @@ img = cv2.imread("./img/1.bmp")
 
 #output=img.copy()
 
+Madhuuuuu :P
+
 # show image format 
 print(img)
 
